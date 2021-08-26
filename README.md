@@ -1,2 +1,2 @@
-# PHPTest
-test PHP
+# Test PHP
+Test PHP
